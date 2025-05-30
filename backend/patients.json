@@ -1,0 +1,16 @@
+{
+    "c41c4fa7-7f22-4692-ada6-ac87086d65da": {
+        "patient_id": "c41c4fa7-7f22-4692-ada6-ac87086d65da",
+        "name": "Lohith",
+        "age": 21,
+        "gender": "Male",
+        "records": []
+    },
+    "fb658603-b1b8-4102-996d-43ab933e17ea": {
+        "patient_id": "fb658603-b1b8-4102-996d-43ab933e17ea",
+        "name": "Pratham",
+        "age": 21,
+        "gender": "Male",
+        "records": []
+    }
+}
